@@ -12,5 +12,19 @@ let firstName, lastName;
 let firstAddress = 'House No. 12', secondAddress;
 let firstNumberPhone = '0129090123';
 let secondNumberPhone = '0129090555';
-
 // console.log(firstName, lastName, firstAddress, secondAddress, firstNumberPhone, secondNumberPhone);
+
+
+// =====primitive types=====
+// undefined
+// null
+// string
+// number
+// boolean
+// bigint
+// symbol
+let primarySchool = undefined;
+let secondarySchool = null;
+let age = 202262622626627;
+let ageDouble = BigInt(909090090909909);
+// console.log(typeof age, typeof ageDouble);
